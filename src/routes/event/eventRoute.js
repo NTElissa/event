@@ -1,6 +1,6 @@
 import express from "express";
 import  { createEventController, getEventController, 
-    updateEventController, deleteEventController,getAllEventsController } from "../controllers/CreateEventController.js";
+    updateEventController, deleteEventController,getAllEventsController } from "../../controllers/event/CreateEventController.js";
 
 
 

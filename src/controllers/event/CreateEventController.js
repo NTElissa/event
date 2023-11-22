@@ -1,4 +1,4 @@
-import Event from '../model/event.js';
+import Event from '../../model/event.js';
 
 
 // Function to create an event
